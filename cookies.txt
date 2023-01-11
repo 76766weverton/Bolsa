@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+educa.ibge.gov.br	TRUE	/	FALSE	1999999999	TS01a5b1ae	01b9ac051a3a7daa63e13450237490593c80549dddaf4640eddae5706f358e993464bb70f60413d9e489e7a5966375d0b62d178080
+educa.ibge.gov.br	TRUE	/	FALSE	1999999999	TS01a5b1ae028	01ba225c46354c3c0aacc24f346b27a08cceb5cc9d92159ab2cd15c69a890cbfe8690bc8ddf3e3d06dccc8cfb185d5a39cfe81d580
+

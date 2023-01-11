@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 08 Jan 2023 10:20:31 at https://educa.ibge.gov.br/templates/ibge_educa_criancas/brincadeiras/ibge_go/dist/index2.html#0 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F  -%l "en, *" -%R https://educa.ibge.gov.br/templates/ibge_educa_criancas/brincadeiras/ibge_go/dist/index2.html#0 https://educa.ibge.gov.br/templates/ibge_educa_criancas/brincadeiras/ibge_go/dist/index2.html#0 -O1 "C:\My Web Sites\APP" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 seconds : 14 links scanned, 13 files written (555842 bytes overall) [442195 bytes received at 110548 bytes/sec], 555992 bytes transferred using HTTP compression in 14 files, ratio 78%, 7.0 requests per connection
+(No errors, 0 warnings, 0 messages)
